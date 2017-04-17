@@ -1,0 +1,19 @@
+{
+  "generator-plugin-wp": {
+    "name": "Term Enhancements",
+    "homepage": "https://labs.inn.org",
+    "description": "Enhancements for taxonomy terms",
+    "version": "1.0.0",
+    "author": "inn_nerds",
+    "authoremail": "nerds@inn.org",
+    "authorurl": "https://labs.inn.org",
+    "license": "GPLv2",
+    "slug": "term-enhancements",
+    "classname": "Term_Enhancements",
+    "mainclassname": "Term_Enhancements",
+    "classprefix": "TE_",
+    "prefix": "term_enhancements",
+    "year": 2017,
+    "currentVersionWP": "4.7.2"
+  }
+}

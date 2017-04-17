@@ -1,0 +1,18 @@
+{
+  "name": "term-enhancements",
+  "description": "Enhancements for taxonomy terms",
+  "license": "GPLv2",
+  "authors": [
+    "inn_nerds"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
